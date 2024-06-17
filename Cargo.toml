@@ -1,0 +1,13 @@
+[package]
+name = "tracelite"
+version = "0.1.0"
+edition = "2021"
+exclude = [".github"]
+
+description = "A simple but elegant logger for rust."
+categories = []
+keywords = ["logger", "trace", "timer", "colorize", "terminal"]
+
+repository = "https://github.com/treeinfra/tracelite"
+license = "MIT"
+authors = ["James Aprosail <aprosail@outlook.com>"]
